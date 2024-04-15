@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Sharmaalok9876
+- 👀 I’m interested in exploring new technologies, machine learning, and web development.
+- 🌱 I’m currently learning advanced algorithms and data structures, as well as deep learning techniques.
+- 💞️ I’m looking to collaborate on open-source projects related to AI, web development, or data science.
+- 📫 You can reach me via email at sharmaalok9876@example.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/sharmaalok9876).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to travel and explore different cuisines around the world!
